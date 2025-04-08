@@ -6,7 +6,7 @@ public class Main {
 
 		JOptionPane.showMessageDialog(null, "Hola");
 		JOptionPane.showMessageDialog(null, "Hola soy flor");
-		JOptionPane.showMessageDialog(null,"Probandooo probandoo");
+		JOptionPane.showMessageDialog(null,"Probandooo probandoo"); 
 
 	}
 }
